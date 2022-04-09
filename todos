@@ -1,0 +1,7 @@
+TO DOS:
+
+1- Preserve scroll after redirect in posts and etc, es un bardo (quizas no redireccionar,,y abrir el form en un modal)
+
+2- Mejorar como se comparten los props en "class HandleInertiaRequests.php" share()
+
+3- 
